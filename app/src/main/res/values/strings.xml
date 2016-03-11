@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RESTApp</string>
+    <string name="tv_msg1">Search for a Show</string>
+    <string name="et_name">TV Show</string>
+    <string name="btn_search">Search</string>
+    <string name="tv_result">Show info goes here</string>
+    <string name="et_season">Season</string>
+</resources>
